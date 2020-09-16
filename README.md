@@ -1,5 +1,5 @@
 # BlackRock_Case_Study
-![BlackRock](BlackRock_Case_Study/blackrock_logo.jpg)
+![BlackRock](Blackrock_logo/blackrock_logo.jpg)
 ## Overview ad Origin:
  * BlackRock, Inc.
  * BlackRock, Inc. was founded in 1988 by Robert S. Kapito and Laurence D. Fink. Both Kapito and Fink worked at First Boston, a New York-based investment bank, when the idea to provide clients with asset management services from a risk management perspective came to Fink after losing $100 million as head of First Boston.
